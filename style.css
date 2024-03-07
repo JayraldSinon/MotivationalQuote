@@ -1,0 +1,48 @@
+html{
+    background-color: black;
+}
+.content{
+margin-top: 100px;
+}
+
+.image{
+    border: 5px solid white;
+    width: 50%;
+    margin-left: 25%;
+}
+    img{
+    width: 100%;
+    }
+
+.textmain{
+    text-align: center;
+}
+    .text{
+        color: white;
+        font-size: 3rem;
+        font-family: "Libre Baskerville" , sans-serif;
+        text-transform: uppercase;
+    }
+
+.Paragraph{
+    color: white;
+}
+
+.libre-baskerville-regular {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .libre-baskerville-regular-italic {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .libre-baskerville-bold {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
